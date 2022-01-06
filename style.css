@@ -1,0 +1,154 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding-bottom: 0;
+}
+body p{
+    padding-left: 20px;
+}
+h1{
+    font-size: 42px;
+}
+.black-color{
+    padding-top: 90px;
+    font-size: 50px;
+}
+.orange-color{
+    color: orangered;
+    font-size: 50px;
+}
+.imran{
+    border-left: 5px solid;
+    border-image: linear-gradient(orange, orange);
+    border-image-slice: 1;
+    
+}
+#top-banar{
+    margin-top: 80px;
+}
+.link-button{
+    text-decoration: none;
+    background: linear-gradient(135deg, orange 60%, cyan);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+section{
+    display: flex;
+    margin-bottom: 100px;
+    margin-left: 10px;
+}
+.half-width{
+    width: 60%;
+    padding-left: 90px; 
+}
+.half-width img{
+    width: 60%;  
+}
+.half img{
+    padding-left: 50%;
+}
+.half{
+    margin-left: -250px;
+    margin-right: 150px;
+}
+.half2{
+    
+    
+}
+span{
+    color: orangered;
+}
+.text-align{
+    text-align: center;
+}
+
+
+.perent-div{
+    width: 90%;
+    height: 80vh;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+}
+.perent-div h3{
+    padding-left: 20px;
+}
+
+.perent-div .child-div-one{
+    width: 25%;
+    height: 350px;
+    border-radius: 10px;
+}
+.perent-div .child-div-one{
+    background-color: palevioletred;
+}
+.perent-div .child-div-one img{
+    width: 150px;    
+}
+.perent-div .child-div-one p{
+    padding-left: 40px;
+    border-radius: 5px;
+}
+
+
+.perent-div .child-div-two{
+    width: 25%;
+    height: 350px;
+    border-radius: 10px;
+}
+.perent-div .child-div-two{
+    background-color: paleturquoise;
+}
+.perent-div .child-div-two img{
+    width: 150px;    
+}
+.perent-div .child-div-two p{
+    padding-left: 40px;
+}
+
+
+.perent-div .child-div-three{
+    width: 25%;
+    height: 350px;
+    border-radius: 10px;
+}
+.perent-div .child-div-three{
+    background-color: lightcoral;
+}
+.perent-div .child-div-three img{
+    width: 150px;    
+}
+.perent-div .child-div-three p{
+    padding-left: 40px;
+}
+
+
+
+.bacraund-img{
+    background-image: url(images/shapes/shape-1.png);
+    background-size: 20%;
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-left: 60px;
+}
+.bacraund-img2{
+    background-size: 10%;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    padding-right: 20px;
+}
+.app{
+    padding-top: 100px;
+}
+.footer1{
+    height: 130px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 12px;
+}
+p{
+    margin-left: -20px;
+}
